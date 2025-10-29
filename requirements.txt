@@ -13,5 +13,5 @@ notebook
 requests
 beautifulsoup4
 
-# Tokenizer Dependencies
+# Tokenizer Dependency
 sentencepiece
