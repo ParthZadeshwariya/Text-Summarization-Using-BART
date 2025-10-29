@@ -1,4 +1,4 @@
-# 🧠 Abstractive Text Summarizer (BART & Streamlit)
+# 🧠 Abstractive Text Summarizer (BART)
 
 This project demonstrates how to fine-tune a **BART (Bidirectional and Auto-Regressive Transformers)** model for **abstractive text summarization** and deploy it as an interactive web application using **Streamlit**.
 
