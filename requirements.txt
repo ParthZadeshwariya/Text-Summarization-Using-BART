@@ -1,0 +1,17 @@
+# Core ML/App Frameworks
+streamlit
+transformers
+torch
+datasets
+
+# Training & Logging
+accelerate
+wandb
+notebook
+
+# Web Scraping (for app.py)
+requests
+beautifulsoup4
+
+# Tokenizer Dependencies
+sentencepiece
